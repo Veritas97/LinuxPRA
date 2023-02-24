@@ -10,13 +10,13 @@
 
 информацию о дистрибутиве.
 
-![pickone](Pick\pickOne.png)
+![pickone](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pickOne.png)
 ***
 Задание №2.
 Создайте каталог, имя которого будет состоять из вашей фамилии, в домашнем каталоге вашего пользователя.
 - Выведите на экран содержимое домашнего каталога, включая права на файлы, скрытые и системные файлы.
 
-![pickTWO](Pick\pickTWO.png)
+![pickTWO](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pickTWO.png)
 ***
 Задание №3.
 Переименуйте созданный вами каталог, добавив к нему текущую дату в формате ГГ-ММ-ДД;
@@ -26,7 +26,7 @@
 в) ваше имя и фамилия;
 Выведите на экран строку только с вашей фамилией и именем. Выполните все в одну строку. Приведите команды, которыми вы это сделали.
 
-![pick3](Pick\pick3.png)
+![pick3](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick3.png)
 ***
 Задание №4.
 
@@ -35,40 +35,40 @@
 Приведите команды, которыми вы это сделали.
 - Удалите оригинальный файл. Выведите на экран содержимое созданного вами каталога.
 
-![pick4](Pick\pick4.png)
+![pick4](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick4.png)
 ***
 Задание №5.
 - Обновите список пакетов, обновите систему.
 - Установите на свою виртуальную машину Midnight Commander и Vim одной командой.
 - Выберите из списка установленных программ те, что установлены вами (воспользуйтесь поисковиком для поиска необходимой команды).
 
-![pick5](Pick\pick5.png)
+![pick5](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick5.png)
 
-![pick6](Pick\pick6.png)
+![pick6](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick6.png)
 ***
 Задание №6.
 
 - Выведете информацию о вашей системе: о ядре, имени хоста и архитектуре процессора.
 
-![pick7](Pick\pick7.png)
+![pick7](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick7.png)
 ***
 Задание №7.
 
 - Покажите размер файла yakit.domain в человекоудобном формате.
 
-![pick8](Pick\pick8.png)
+![pick8](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick8.png)
 ***
 Задание №8.
 
 - Сделайте пинг сайта www.yakit.ru.
 
-![pick9](Pick\pick9.png)
+![pick9](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick9.png)
 ***
 Задание №9.
 
 - Создайте каталог с именем operationsystem, в нем создайте 20 файлов ( Подсказка touch file{1..20}.js ). Удалите рекурсивно каталог с файлами. приведите команды которые вы использовали при выполнении задания.
 
-![pick10](Pick\pick10.png)
+![pick10](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick10.png)
 ***
 Задание №10.
 
@@ -82,4 +82,4 @@ vi file
 
 vi file
 ```
-![pick11](Pick\pick11.png)
+![pick11](https://github.com/Veritas97/LinuxPRA/blob/main/Pick/pick11.png)
